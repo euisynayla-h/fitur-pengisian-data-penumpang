@@ -3,7 +3,7 @@ Project: Modul Pengisian Data Penumpang – Aplikasi Tiketku
 PIC: DevOps
 
 1. Persiapan
--	Pastikan Git sudah terinstal di komputer (apabila belum download Git: Git - Downloads, kemudian cek dengan git –version di terminal).
+-	Pastikan Git sudah terinstal di komputer (apabila belum download Git: https://git-scm.com/downloads, kemudian cek dengan git –version di terminal).
 -	Pastikan sudah memiliki akun GitHub.
 -	Pastikan sudah terundang ke repository project:
 Repository URL: https://github.com/euisynayla-h/fitur-pengisian-data-penumpang
