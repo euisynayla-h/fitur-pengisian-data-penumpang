@@ -12,7 +12,7 @@ fitur-pengisian-data-penumpang/ ├── docs/ # Berisi dokumen seperti SPK dan
 
 ## Teknologi
 - Git & GitHub (version control)
-- Diagram Tools (seperti Draw.io, Figma, Lucidchart, dll)
+- Diagram Tools (Draw.io)
 
 ## Cara Memulai
 1. Clone repository ini:
