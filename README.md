@@ -38,3 +38,11 @@ cd fitur-pengisian-data-penumpang
 - Frontend Developer: Dewi Agustia (D1041221070)
 - Backend Developer: Reza Andhika Putra (D1041221023)
 - DevOps: Euisy Nayla Hartono (D1041221038)
+
+## Screenshot UI
+
+![Login](/docs/screenshots/Halaman%20Login.jpg)
+![Ajukan Penerbangan](/docs/screenshots/Halaman%20Ajukan%20Penerbangan.jpg)
+![Cari Penerbangan](/docs/screenshots/Halaman%20Cari%20Penerbangan.jpg)
+![Pilih Data Pegawai dan Kursi](/docs/screenshots/Halaman%20Pilih%20Data%20Pegawai%20dan%20Kursi.jpg)
+![Konfirmasi](/docs/screenshots/Halaman%20Konfirmasi.jpg)
